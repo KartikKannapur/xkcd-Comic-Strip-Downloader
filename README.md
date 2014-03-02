@@ -13,8 +13,8 @@ xkcd is available under the Creative Commons Attribution-NonCommercial 2.5 Licen
 
 Installation
 ===========================
-InstallBeautifulSoup - http://www.crummy.com/software/BeautifulSoup/
-
+Install BeautifulSoup - http://www.crummy.com/software/BeautifulSoup/
+Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 1. sudo apt-get install python-pip
 2. sudo pip install BeautifulSoup
 
